@@ -1,0 +1,23 @@
+{
+  "name": "oeajs",
+  "version": "1.0.0",
+  "description": "Ophelia js (not the same)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadyFox2004/oeajs.git"
+  },
+  "keywords": [
+    "music",
+    "oea"
+  ],
+  "author": "Antoine-Matis Boudreau ( ShadyFox2004 )",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShadyFox2004/oeajs/issues"
+  },
+  "homepage": "https://github.com/ShadyFox2004/oeajs#readme"
+}
